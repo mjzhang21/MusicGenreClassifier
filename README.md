@@ -1,1 +1,1 @@
-# My Project
+# Music Genre Classifier Project
