@@ -1,5 +1,6 @@
 backend/data/
 *.wav
 *.mp3
+*.csv
 backend/models/
 *.pkl
